@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ODataSingletonIssue</name>
+    </assembly>
+    <members>
+        <!-- Badly formed XML comment ignored for member "M:ODataSingletonIssue.Controllers.MenuItemsController.Get(System.Guid)" -->
+        <!-- Badly formed XML comment ignored for member "M:ODataSingletonIssue.Controllers.PizzaController.GetOne" -->
+        <member name="T:ODataSingletonIssue.Models.MenuItem">
+            <summary>
+             Dummy additional entity set.
+            </summary>
+        </member>
+    </members>
+</doc>
